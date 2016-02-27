@@ -4,10 +4,10 @@ import logging
 import ssl
 _default = {'vcenter': '10.12.20.62',
                   'password': 'mD%6TeQ~fjlI',
-                  'user': 'qa-snapshot',
+                  'user': 'rajiver',
                   'admin': 'rajiver',
-                  'adminpwd': 'Grab@Python',
-                  'vm_name' : 'plq-nex-rwcqa-app-snap',
+                  'adminpwd': 'Mypassword',
+                  'vm_name' : 'myvmname',
                   'operation' : 'create',
                   'snapshot_name' : 'MyCoolSnapshot',
             }
